@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SharedList</string>
+    <string name="title1">Introducere</string>
+    <string name="description1">Uite cum se foloseste aplicatia</string>
+    <string name="homeTitle">SharedList</string>
+    <string name="noGroups">Nu s-a găsit nici un grup! Crează un grup folosind iconița de plus sau apasa butonul de refresh!</string>
+    <string name="addPeopleToGroup">Adaugă oameni în grup:</string>
+    <string name="addGroup">Adauga grup</string>
+    <string name="groupNameLabel">Nume grup</string>
+    <string name="createGroup">Crează grup</string>
+    <string name="goBackArrow">Înapoi</string>
+    <string name="shareItems">Trimite lista</string>
+    <string name="addItems">Adaugă elemente\n</string>
+    <string name="addToList">Adaugă la listă</string>
+    <string name="chooseName">Care este numele tău?</string>
+    <string name="createUser">Crează utilizator</string>
+    <string name="signIn">Înregistrează-te</string>
+    <string name="signOut">Deloghează-te</string>
+    <string name="refreshPage">Actualizează</string>
+    <string name="deleteItem">Șterge element</string>
+    <string name="item">Element :</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SharedList</string>
+    <string name="title1">Introduction</string>
+    <string name="description1">Here\'s how to use the app</string>
+    <string name="homeTitle">SharedList</string>
+    <string name="noGroups">No groups found! Create a group using the plus icon!</string>
+    <string name="addPeopleToGroup">Add people to group:</string>
+    <string name="addGroup">Add group</string>
+    <string name="groupNameLabel">Group Name</string>
+    <string name="createGroup">Create Group</string>
+    <string name="goBackArrow">Go Back</string>
+    <string name="shareItems">Share items in list</string>
+    <string name="addItems">Add items\n</string>
+    <string name="addToList">Add to list</string>
+    <string name="chooseName">What is your name?</string>
+    <string name="createUser">Create user</string>
+    <string name="signIn">Sign in</string>
+    <string name="signOut">Sign out</string>
+    <string name="refreshPage">Refresh</string>
+    <string name="deleteItem">Delete item</string>
+    <string name="item">Item :</string>
+</resources>
